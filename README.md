@@ -1,5 +1,4 @@
 # API-SAP-JavaSpringBoot
-Esta é uma API REST desenvolvida usando o framework Spring Boot
 
 Esta é uma API REST desenvolvida usando o framework Spring Boot. Ela fornece um endpoint /Produto que retorna uma lista de produtos juntamente com seus departamentos correspondentes.
 
